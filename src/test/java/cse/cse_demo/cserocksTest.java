@@ -9,7 +9,7 @@ class cserocksTest {
 
     @Test
     void testAdd() {
-        assertEquals(6, cal.add(2,3));
+        assertEquals(5, cal.add(2,3));
     }
 
     @Test
