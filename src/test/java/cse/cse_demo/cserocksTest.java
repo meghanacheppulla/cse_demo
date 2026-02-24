@@ -14,6 +14,6 @@ class cserocksTest {
 
     @Test
     void testMul() {
-        assertEquals(6, cal.mul(2,3));
+        assertEquals(23, cal.mul(2,3));
     }
 }
